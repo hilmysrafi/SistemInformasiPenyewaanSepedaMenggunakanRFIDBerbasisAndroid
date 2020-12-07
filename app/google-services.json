@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "564145120041",
+    "firebase_url": "https://tugasakhir-6ba7d.firebaseio.com",
+    "project_id": "tugasakhir-6ba7d",
+    "storage_bucket": "tugasakhir-6ba7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564145120041:android:6e7161cd9829c64ca28d38",
+        "android_client_info": {
+          "package_name": "com.example.bike85"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564145120041-pedf8c3peskm40iren9ammato9rnal2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB16q6NL6O31Fm6eTvMy3sa0hCB1Tanx_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564145120041-pedf8c3peskm40iren9ammato9rnal2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

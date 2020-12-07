@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bike85</string>
+    <string name="forgot"><u>Tap Register!</u></string>
+    <string name="dnt_have">Do not have an account?</string>
+    <string name="alrdy_have">Already have an account?</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="logout">Logout</string>
+    <string name="info_bike">Info Bike</string>
+    <string name="update_delete">Tap to Update or Delete</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>
